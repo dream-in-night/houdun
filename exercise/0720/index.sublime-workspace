@@ -1,0 +1,443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"fi",
+				"first	.first()"
+			],
+			[
+				"sur",
+				"surface"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"frame",
+				"frameset	Tag"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"tog",
+				"View: Toggle Menu"
+			],
+			[
+				"toggle",
+				"View: Toggle Menu"
+			],
+			[
+				"toggle minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggle menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 663.0
+	},
+	"console":
+	{
+		"height": 283.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/学习资料/homework/website/uniqlo/css/style1.css",
+		"/C/学习资料/homework/website/uniqlo/index.html",
+		"/C/学习资料/class_exercise/php/index.php",
+		"/C/学习资料/homework/website/thinkpad/js/j2.js",
+		"/C/学习资料/homework/website/thinkpad/js/j1.js",
+		"/C/学习资料/homework/website/thinkpad/shop.html",
+		"/C/学习资料/homework/website/thinkpad/css/s1.css",
+		"/C/学习资料/homework/website/thinkpad/css/s2.css",
+		"/C/学习资料/homework/website/thinkpad/css/s3.css",
+		"/D/影音/电影/【高清控联盟】速度与激情7.Fast.and.Furious.7.2015.1080p.WEB-DL.x264.AC3-Booda225/【SSK字幕组】速度与激情7 双语特效简体(1080P).ass",
+		"/C/学习资料/homework/website/thinkpad/1.html",
+		"/C/学习资料/class_demo/july/7.11/键盘对象.html",
+		"/C/学习资料/homework/july/20150717/index.html",
+		"/C/学习资料/class_demo/july/7.17/原子表.html",
+		"/C/学习资料/class_demo/july/7.17/原子分组.html",
+		"/C/学习资料/homework/website/vancl/index.html",
+		"/C/学习资料/homework/website/vancl/css/s3.css",
+		"/C/学习资料/homework/website/vancl/css/s2.css",
+		"/C/学习资料/homework/website/vancl/js/js.js",
+		"/C/学习资料/homework/website/vancl/css/s1.css",
+		"/C/学习资料/homework/july/20150715_李晓平/imgs/changeover.html",
+		"/C/学习资料/homework/july/20150715_李晓平/css/changeover.css",
+		"/C/学习资料/homework/july/20150715_李晓平/js/changeover.js",
+		"/C/学习资料/class_exercise/july/7.17/reg.html",
+		"/C/学习资料/homework/july/20150715_李晓平/js/tmall.js",
+		"/C/学习资料/class_demo/july/7.15/京东轮播/js/js.js",
+		"/C/学习资料/sgd/天猫楼层轮播.html",
+		"/C/学习资料/homework/july/20150715_李晓平/imgs/tmall.html",
+		"/C/学习资料/homework/july/20150716_李晓平/index.html",
+		"/C/学习资料/class_demo/july/7.16/折叠图(风景)/js/js.js",
+		"/C/学习资料/homework/july/20150716_李晓平/css/fold.css",
+		"/C/学习资料/homework/july/20150716_李晓平/js/fold.js",
+		"/C/学习资料/class_exercise/july/7.16/obj.js",
+		"/C/学习资料/class_exercise/july/7.16/obj.html",
+		"/C/学习资料/class_exercise/july/7.16/style.css",
+		"/C/学习资料/class_demo/july/7.15/无缝滚动/style.css",
+		"/C/学习资料/homework/july/20150714_李晓平/imgs/shake.html",
+		"/C/学习资料/class_exercise/july/7.16/tab.html",
+		"/C/学习资料/class_exercise/july/7.16/wheel.html",
+		"/C/学习资料/jQuery/jquery-1.11.3.js",
+		"/C/学习资料/homework/july/20150715_李晓平/css/demo.html",
+		"/C/学习资料/homework/july/20150715_李晓平/imgs/list.html",
+		"/C/学习资料/homework/july/20150715_李晓平/index.html",
+		"/C/学习资料/class_demo/july/7.15/图标放大/index.html",
+		"/C/学习资料/homework/july/20150715_李晓平/css/tmall.css",
+		"/C/学习资料/class_demo/july/7.15/图标放大/js.js",
+		"/C/学习资料/class_demo/july/7.15/京东轮播/index.html",
+		"/C/学习资料/class_demo/july/7.15/无缝滚动/js.js",
+		"/C/学习资料/homework/july/20150715_李晓平/css/demo.css",
+		"/C/学习资料/homework/july/20150715_李晓平/css/iconfont.css",
+		"/C/学习资料/class_demo/july/7.15/无缝滚动/index.html",
+		"/C/学习资料/homework/july/20150715_李晓平/css/mgbaua.css",
+		"/C/学习资料/class_demo/july/7.15/左右切换/js.js",
+		"/C/学习资料/homework/july/20150715_李晓平/imgs/mgbaua.html",
+		"/C/学习资料/class_demo/july/7.15/左右切换/index.html",
+		"/C/学习资料/homework/july/20150715_李晓平/js/mgbaua.js",
+		"/C/学习资料/class_demo/july/7.13/tab显隐/index.html",
+		"/C/学习资料/class_demo/july/7.13/奔跑吧，蛋/index.html",
+		"/C/学习资料/class_demo/july/7.10/轮播图/index.html",
+		"/C/学习资料/class_demo/july/7.3/函数构造对象.html",
+		"/C/学习资料/homework/july/20150714_李晓平/imgs/jd.html",
+		"/C/学习资料/homework/july/20150714_李晓平/imgs/list.html",
+		"/C/学习资料/homework/july/20150714_李晓平/index.html",
+		"/C/学习资料/class_demo/july/7.13/tab切换/index.html",
+		"/C/学习资料/homework/july/20150714_李晓平/imgs/changeover.html",
+		"/C/学习资料/class_demo/july/7.14/操作属性/index.html",
+		"/C/学习资料/homework/july/20150714_李晓平/js/change.js",
+		"/C/学习资料/homework/july/20150714_李晓平/css/change.css",
+		"/C/学习资料/class_exercise/july/7.14/2.html",
+		"/C/学习资料/class_exercise/july/7.14/slideup.html",
+		"/C/学习资料/class_exercise/july/7.14/fontface/i2.html",
+		"/C/学习资料/class_exercise/july/7.14/fontface/fontface.css",
+		"/C/学习资料/homework/website/thinkpad/index.html",
+		"/C/学习资料/class_exercise/july/7.14/index.html",
+		"/C/学习资料/class_demo/july/7.3/json对象.html",
+		"/C/学习资料/class_demo/july/7.11/日期.html",
+		"/C/学习资料/homework/july/20150707_李晓平/pages/2.html",
+		"/C/学习资料/homework/july/20150707_李晓平/pages/3.html",
+		"/C/学习资料/class_exercise/july/7.13/JS/1.js",
+		"/C/学习资料/class_exercise/july/7.13/index.html",
+		"/C/学习资料/class_exercise/july/7.13/ani.html",
+		"/C/学习资料/class_demo/july/7.11/倒计时.html",
+		"/C/学习资料/homework/july/20150711_李晓平/gettime.html",
+		"/C/学习资料/homework/july/20150711_李晓平/index.html",
+		"/C/学习资料/homework/july/20150711_李晓平/type.html",
+		"/C/Users/Symo/AppData/Roaming/Sublime Text 3/Packages/User/nodejs.sublime-build",
+		"/C/学习资料/class_demo/july/7.11/放大镜/index.html",
+		"/C/学习资料/class_demo/july/7.11/打字游戏.html",
+		"/C/学习资料/homework/website/JD/jingdong.html",
+		"/C/学习资料/homework/website/thinkpad/css/text.html",
+		"/C/学习资料/homework/website/JD/jingdong.css",
+		"/C/学习资料/class_exercise/july/7.11/键盘.html",
+		"/C/学习资料/homework/july/20150710_李晓平/rotate.html",
+		"/C/学习资料/exercise/july/7.10/rotate.html",
+		"/C/学习资料/exercise/july/7.10/elementposition.html",
+		"/C/学习资料/homework/july/20150709_李晓平/pages/list.html",
+		"/C/学习资料/exercise/july/7.10/float.html",
+		"/C/学习资料/exercise/july/7.10/girls.html",
+		"/C/学习资料/homework/july/20150709_李晓平/pages/rotate.html",
+		"/C/学习资料/homework/july/20150709_李晓平/pages/ro2.html",
+		"/C/学习资料/class_demo/july/7.7/事件.html",
+		"/C/学习资料/homework/july/20150709_李晓平/index.html",
+		"/C/学习资料/homework/july/20150709_李晓平/pages/ad.html",
+		"/C/学习资料/homework/july/20150709_李晓平/pages/test.html",
+		"/C/学习资料/exercise/july/7.9/pages/dcjiui.html",
+		"/C/学习资料/exercise/july/7.9/pages/nodes.html",
+		"/C/学习资料/exercise/july/7.9/pages/time.html",
+		"/C/学习资料/exercise/july/7.9/pages/4.html",
+		"/C/学习资料/exercise/july/7.9/pages/3.html",
+		"/C/学习资料/exercise/july/7.9/pages/2.html",
+		"/C/学习资料/exercise/july/7.9/pages/1.html",
+		"/C/学习资料/exercise/july/7.9/pages/5.html",
+		"/C/学习资料/homework/july/20150708_李晓平/index.html",
+		"/C/学习资料/homework/july/20150708_李晓平/pages/list.html",
+		"/C/学习资料/exercise/july/7.9/iceage.html",
+		"/C/学习资料/exercise/july/7.9/pages/a.html",
+		"/C/学习资料/homework/july/20150708_李晓平/pages/change.html",
+		"/C/学习资料/homework/july/20150708_李晓平/pages/gif.html",
+		"/C/学习资料/homework/july/20150708_李晓平/pages/gif2.html",
+		"/C/学习资料/class_demo/july/7.2/数组的创建.html",
+		"/C/学习资料/class_demo/july/7.7/定时器.html",
+		"/C/学习资料/class_demo/july/7.3/数组对象.html",
+		"/C/学习资料/homework/july/20150707_李晓平/pages/test.html",
+		"/C/学习资料/homework/july/20150707_李晓平/pages/4.html",
+		"/C/学习资料/exercise/7.8/tagname.html",
+		"/C/学习资料/exercise/7.8/移动.html",
+		"/C/学习资料/exercise/7.8/get.html",
+		"/C/学习资料/exercise/7.8/getcomputedcss.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 208.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1",
+			"blank20",
+			"ut",
+			"shirt",
+			"sp",
+			"li",
+			"u",
+			"jpg",
+			"li",
+			";\n",
+			"absolute",
+			"silver",
+			"#",
+			"argument",
+			"value1",
+			"property2",
+			"value1",
+			"从来就没有什么救世主",
+			"value2",
+			"&nbsp;",
+			"title=\"神盾局特工第",
+			"集</a>",
+			"<a href=\"",
+			"li",
+			"1",
+			"记事本",
+			"width:691px;height:561px;",
+			"&nbsp;",
+			"<a href=\"",
+			"More",
+			"span",
+			"&nbsp;",
+			"\" title=\"神盾局特工第一季?\">0?",
+			"\" title=\"神盾局特工第一季$\">$集",
+			"</a>",
+			"<a href=\"",
+			"\"",
+			"nbsp",
+			";\")"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dd",
+			"#c8c8c9",
+			".",
+			"",
+			"3",
+			"2",
+			"border:1px solid silver;",
+			"",
+			"a",
+			"",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 76.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/nodejs.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
